@@ -36,6 +36,8 @@ Footer Bottom Flex Container(hr)
 "flex items-center justify-between" 
 (footer is set to flex items are centered and justify in between)
 
+adding a new div for the icon , and changing sm:col-span-2  to sm:col-span-3 so my code can also contain icon , 
+
 Resize the Browser:
 the project is tested for resizing the browser window and observing how the layout adapts to different sizes and everything works well 
  
